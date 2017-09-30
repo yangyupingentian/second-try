@@ -1,4 +1,5 @@
 
+
 ## second try
 
 #i still do not know how to use it 
@@ -59,5 +60,7 @@ author：“我啊”
 会出现划红线的去掉吗？？
 
 并没有出现。。。。。。
+
+
 -------------------------
 终于上传了自己的第一个文件，用vs2017写的markdown文件
